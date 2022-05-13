@@ -17,6 +17,6 @@ The basic Markup is Written in **HTML** and The Styling is done using **CSS**.
 
  ## Credits
  This project is solely made by **Mridul Sharma**.
- **LinkedIn Profile** :https://www.linkedin.com/in/mridul-sharma-5a8520221
- **GitHub Profile**: https://github.com/Mridul07Sharma
- **Resume Link**:   https://drive.google.com/drive/folders/1qoQfmL3L5Vgx-smBRh8jcDgBbxHBf18P?usp=sharing
+ 1. **LinkedIn Profile** :https://www.linkedin.com/in/mridul-sharma-5a8520221
+ 2. **GitHub Profile**: https://github.com/Mridul07Sharma
+ 3. **Resume Link**:   https://drive.google.com/drive/folders/1qoQfmL3L5Vgx-smBRh8jcDgBbxHBf18P?usp=sharing
